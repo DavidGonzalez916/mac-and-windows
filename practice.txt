@@ -1,0 +1,2 @@
+We are practicing with git.
+we are attempting to add, commmit and push our changes.
